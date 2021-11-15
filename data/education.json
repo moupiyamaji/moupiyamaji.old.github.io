@@ -1,15 +1,27 @@
 [
     {
-        "school":"[The Pennsylvania State University](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
+        "school":"[The Pennsylvania State University](https://science.psu.edu/astro)",
+        "degree":"Ph.D.",
+        "major":"Astronomy and Astrophysics",
         "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 200910"
+        "range":"2018"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"[The Pennsylvania State University](https://science.psu.edu/astro)",
+        "degree":"Master of Science (M.S.)",
+        "major":"Astronomy and Astrophysics",
+        "range":"2014"
+    },
+    {
+        "school":"[Indian Institute of Science](http://www.physics.iisc.ernet.in/)",
+        "degree":"Master of Science (M.Sc.)",
+        "major":"Physics",
+        "range":"2012"
+    },
+    {
+        "school":"[Presidency College, Calcutta University]"(https://www.caluniv.ac.in/),
+        "degree":"Bachelor of Science (B.Sc.)",
+        "major":"Physics",
+        "range":"2012"
     }
 ]
