@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Lausanne, VD"
+address = "Geneva, Switzerland"
 email = "moupiyamaji137@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Moupiya"
@@ -29,12 +29,9 @@ showSkills = true
 # trackerID = "XX-123446-01"
 
 [[params.handles]]
-# link = "https://www.linkedin.com/in/edwardwebb/"
+# link = "https://www.linkedin.com/feed/"
 name = "LinkedIn"
 
-[[params.handles]]
-# link = "https://github.com/eddiewebb/"
-name = "GitHub"
 
 
 [outputs]
